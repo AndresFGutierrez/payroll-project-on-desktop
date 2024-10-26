@@ -1,0 +1,47 @@
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.exe.config
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.exe
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.pdb
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Form1.resources
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.exe
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.pdb
+C:\Users\Usuario\Desktop\Taller Vectores\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Form2.resources
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.exe.config
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.exe
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.pdb
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.AssemblyReference.cache
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Form1.resources
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Form2.resources
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Properties.Resources.resources
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.GenerateResource.cache
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.exe
+C:\Users\pipeo\Downloads\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.pdb
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.exe.config
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.exe
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.pdb
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.AssemblyReference.cache
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Form1.resources
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Form2.resources
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Properties.Resources.resources
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.GenerateResource.cache
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.CoreCompileInputs.cache
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.exe
+C:\Users\Roland777\Desktop\c#\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.pdb
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.exe.config
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.exe
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\bin\Debug\Andres_Gutierrez-Roland_Ramirez.pdb
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Form1.resources
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Form2.resources
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez_Roland_Ramirez.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.exe
+C:\Users\Usuario\Downloads\ezyZip\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\Andres_Gutierrez-Roland_Ramirez\obj\Debug\Andres_Gutierrez-Roland_Ramirez.pdb
